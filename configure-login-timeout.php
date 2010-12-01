@@ -105,7 +105,7 @@ register_activation_hook( __FILE__, 'clt_activate' );
 register_deactivation_hook( __FILE__, 'clt_deactivate' );
 
 
-/* TODO:  
+/* 
 
    The (real) seconds field is a hidden field on this form.  It's what
    actually affects the auth timeout.

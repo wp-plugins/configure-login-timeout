@@ -38,7 +38,7 @@ The control panel uses Javascript.  It may not work on really archaic browsers.
 
 == Frequently Asked Questions ==
 
-= Q. How many questions have been asked about this plugin?
+= Q. How many questions have been asked about this plugin? =
 A.  None at all.  Not one.  Zero.
 
 == Screenshots ==
