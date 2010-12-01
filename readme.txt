@@ -27,8 +27,8 @@ The control panel uses Javascript.  It may not work on really archaic browsers.
      or my favorite,
   2. Check it out fresh with Subversion:
 <pre>
-		     cd wp-content/plugins
-		     svn co http://plugins.svn.wordpress.org/configure-login-timeout/trunk configure-login-timeout
+     cd wp-content/plugins
+     svn co http://plugins.svn.wordpress.org/configure-login-timeout/trunk configure-login-timeout
 </pre>
 
 2. Activate the plugin through the 'Plugins' menu in WordPress.
