@@ -2,7 +2,7 @@
 Plugin Name: Configure Login Timeout
 Contributors: n8v
 Donate link: http://worldvision.org
-Tags: WP-Syntax, color, colors, customization, customize, theme, colorizer, custom, edit, wp, syntax, highlight, highlighting, code, pre, markup, css, style, keyword, colour
+Tags: timeout, cookie, user, users, admin, remember, remember me, authentication, author, automatic, comments, password, login, log in, logout, log out, session, expiration, expiry, expires, weeks, days
 Requires at least: 2.8
 Tested up to: 3.1alpha
 Stable tag: trunk
