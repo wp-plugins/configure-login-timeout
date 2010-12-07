@@ -4,7 +4,7 @@ Contributors: n8v
 Donate link: http://worldvision.org
 Tags: timeout, cookie, user, users, admin, remember, remember me, authentication, author, automatic, comments, password, login, log in, logout, log out, session, expiration, expiry, expires, weeks, days
 Requires at least: 2.8
-Tested up to: 3.1alpha
+Tested up to: 3.1beta
 Stable tag: trunk
 Version: 1.0
 
