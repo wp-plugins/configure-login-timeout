@@ -4,7 +4,7 @@ Contributors: n8v
 Donate link: http://worldvision.org
 Tags: timeout, cookie, user, users, admin, remember, remember me, authentication, author, automatic, comments, password, login, log in, logout, log out, session, expiration, expiry, expires, weeks, days
 Requires at least: 2.8
-Tested up to: 3.1beta
+Tested up to: 3.8
 Stable tag: trunk
 Version: 1.0
 
@@ -38,7 +38,13 @@ The control panel uses Javascript.  It may not work on really archaic browsers.
 
 == Frequently Asked Questions ==
 
-= Q. How many questions have been asked about this plugin? =
+= Q. Is this plugin still maintained or supported? =
+A. Yes, the developer (n8v) uses it on several WordPress blogs and will continue to support it in 2014 and beyond.
+
+= Q. How can I thank you enough? =
+A. I sure would be grateful if you could tell any musician, student, teacher or parent you know about my iOS app(s) at [Tonally Awesome](http://tonallyaweso.me/teuna?utm_source=wp-plugins&utm_medium=faq&utm_campaign=teuna).
+
+= Q. How many OTHER questions have been asked about this plugin? =
 A.  None at all.  Not one.  Zero.
 
 == Screenshots ==
