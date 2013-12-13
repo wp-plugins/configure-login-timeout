@@ -39,7 +39,7 @@ The control panel uses Javascript.  It may not work on really archaic browsers.
 == Frequently Asked Questions ==
 
 = Q. Is this plugin still maintained or supported? =
-A. Yes, the developer (n8v) uses it on several WordPress blogs and will continue to support it in 2014 and beyond.
+A. Yes, [the developer](http://n8v.enteuxis.org) uses it on several WordPress blogs and will continue to support it in 2014 and beyond.
 
 = Q. How can I thank you enough? =
 A. I sure would be grateful if you could tell any musician, student, teacher or parent you know about my iOS app(s) at [Tonally Awesome](http://tonallyaweso.me/teuna?utm_source=wp-plugins&utm_medium=faq&utm_campaign=teuna).
